@@ -58,16 +58,11 @@ Supporting agile, data-backed decisions in a fast-moving consumer market
 
 • Walkthrough of Key Visuals
 🔹 Key Performance Indicators (Top Section):
-Total Sales: $17M
-
+Total Sales: $17M  
 Total Boxes Sold: 1M
-
 Total Costs: $6.68M
-
 Total Profit: $10M
-
 Total Shipments: 3K
-
 Current Sales Efficiency Gauge: 60.9%
 
 Each KPI block also shows Month-over-Month (%) changes, highlighting areas of improvement or concern.
@@ -105,10 +100,6 @@ Operational Efficiency: Track shipment volumes and profit margins to streamline 
 
 Data-Driven Strategy: Use MoM analysis and performance gauges to set realistic targets and act on underperforming metrics.
 
-📁 File Format
-.pbix (Power BI dashboard file)
-
-.png (dashboard snapshot)
 
 ![Dashboard Preview](https://github.com/Abhishek-Kaushik-0/Awesome-Chocolate-Bi-Dashboard/blob/main/AwesomeChocolateBiScreenshot.png)
 
