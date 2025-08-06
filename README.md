@@ -1,4 +1,4 @@
-**Awesome-Chocolate-Dashboard**
+**Awesome-Chocolate-Sales-Dashboard**
 ---
 
 **🍫 Awesome Chocolates: Global Sales Dashboard**
