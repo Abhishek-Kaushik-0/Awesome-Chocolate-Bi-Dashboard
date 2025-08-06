@@ -76,7 +76,7 @@ Filter dashboard data by:
 Product Categories: Bars, Bites, Other
 Regions/Countries: Australia, Canada, India, NZ, UK, USA
 
-**• Business Impact & Insights  **  
+**Business Impact & Insights**  
 
 Sales Leadership: Quickly assess which salespeople are contributing the most profit and which regions need support.
 
