@@ -110,8 +110,6 @@ Data-Driven Strategy: Use MoM analysis and performance gauges to set realistic t
 
 .png (dashboard snapshot)
 
-📸 Dashboard Preview
-
-https://github.com/Abhishek-Kaushik-0/Awesome-Chocolate-Bi-Dashboard/blob/main/AwesomeChocolateBiScreenshot.png
+![Dashboard Preview](https://github.com/Abhishek-Kaushik-0/Awesome-Chocolate-Bi-Dashboard/blob/main/AwesomeChocolateBiScreenshot.png)
 
 
