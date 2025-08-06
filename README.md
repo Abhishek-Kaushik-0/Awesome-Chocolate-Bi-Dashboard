@@ -5,7 +5,8 @@
 
 A dynamic and interactive Power BI dashboard designed to analyze and visualize sales performance, profit trends, and shipment metrics for a global chocolate brand—Awesome Chocolates. This dashboard supports business decision-making by delivering insights into product categories, regions, and sales teams.
 
-📝 Short Description / Purpose
+**📝 Short Description / Purpose**
+
 The Awesome Chocolates Dashboard provides a comprehensive overview of sales, costs, profits, and shipment performance across countries and categories. It helps stakeholders monitor business KPIs, identify top-performing salespeople, and track market trends over time.
 
 This dashboard is ideal for use by sales managers, analysts, product strategists, and operations teams who need data-driven visibility into the company’s performance.
@@ -111,8 +112,6 @@ Data-Driven Strategy: Use MoM analysis and performance gauges to set realistic t
 
 📸 Dashboard Preview
 
-(Update the path based on your repo folder structure)
+https://github.com/Abhishek-Kaushik-0/Awesome-Chocolate-Bi-Dashboard/blob/main/AwesomeChocolateBiScreenshot.png
 
-🔗 Connect with Me
-Feel free to connect or follow for more Power BI dashboards and data projects!
 
