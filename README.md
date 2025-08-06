@@ -42,7 +42,7 @@ Market segmentation across various countries and product lines
 • Business Problem
 Chocolate manufacturers and distributors require a real-time, visual tool to assess market health, track sales team performance, and optimize supply chain decisions across global operations.
 
-• Goal of the Dashboard
+• Goal of the Dashboard  
 To create a centralized performance overview that allows:
 
 Tracking key business metrics over time
@@ -53,7 +53,7 @@ Identifying high-performing salespeople and low-performing products
 
 Supporting agile, data-backed decisions in a fast-moving consumer market
 
-• Walkthrough of Key Visuals
+• Walkthrough of Key Visuals  
 🔹 Key Performance Indicators (Top Section):
 Total Sales: $17M  
 Total Boxes Sold: 1M
@@ -64,31 +64,28 @@ Current Sales Efficiency Gauge: 60.9%
 
 Each KPI block also shows Month-over-Month (%) changes, highlighting areas of improvement or concern.
 
-📈 Boxes by Start of Month (Line Chart)
+📈 Boxes by Start of Month (Line Chart)  
 Shows monthly trend in boxes sold, helping identify seasonal patterns and sales cycles.
 
-📦 Total Shipments by Boxes (Histogram)
+📦 Total Shipments by Boxes (Histogram)  
 Visualizes distribution of shipments across different box volumes to understand inventory dynamics.
 
-🧑‍💼 Salesperson Performance Table:
+🧑‍💼 Salesperson Performance Table:  
 Includes:
 
 Individual sales and profit values
-
 Profit % (color-coded bar for clarity)
-
 LBS % (load-based efficiency)
-
 Visual indicators for performance health
 
-📂 Sidebar Filters:
-Filter dashboard data by:
+📂 Sidebar Filters:  
+Filter dashboard data by:  
 
 Product Categories: Bars, Bites, Other
 
 Regions/Countries: Australia, Canada, India, NZ, UK, USA
 
-• Business Impact & Insights
+• Business Impact & Insights  
 Sales Leadership: Quickly assess which salespeople are contributing the most profit and which regions need support.
 
 Market Intelligence: Understand which product types and countries are generating the most revenue.
