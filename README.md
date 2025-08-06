@@ -56,7 +56,8 @@ Identifying high-performing salespeople and low-performing products
 Supporting agile, data-backed decisions in a fast-moving consumer market
 
 • Walkthrough of Key Visuals  
-🔹 Key Performance Indicators (Top Section):
+
+🔹 Key Performance Indicators (Top Section):  
 Total Sales: $17M  
 Total Boxes Sold: 1M
 Total Costs: $6.68M
