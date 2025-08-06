@@ -15,28 +15,19 @@ This dashboard is ideal for use by sales managers, analysts, product strategists
 
 The dashboard was built using the following tools and technologies:
 
-📊 Power BI Desktop – For dashboard creation and report visualization.
-
-📂 Power Query – Used to clean, transform, and shape raw sales and shipment data.
-
-🧠 DAX (Data Analysis Expressions) – For calculated columns, KPIs, and dynamic visuals.
-
-📁 Data Modeling – Multiple tables (sales, profit, shipment, salesperson) were linked to enable slicing, filtering, and cross-analysis.
-
+📊 Power BI Desktop – For dashboard creation and report visualization.  
+📂 Power Query – Used to clean, transform, and shape raw sales and shipment data.  
+🧠 DAX (Data Analysis Expressions) – For calculated columns, KPIs, and dynamic visuals.  
+📁 Data Modeling – Multiple tables (sales, profit, shipment, salesperson) were linked to enable slicing, filtering, and cross-analysis.  
 🖼️ Visual Assets – .png snapshot included for showcase.
 
 **📦 Data Source**
 
-Sample sales dataset sourced from Kaggle for demonstration and learning purposes.
-
+Sample sales dataset sourced from **Kaggle** for demonstration and learning purposes.
 The dataset represents fictional sales data for "Awesome Chocolates" and includes:
-
 Monthly sales value and volume
-
 Box shipments by region and product category
-
 Profitability by individual salespeople
-
 Market segmentation across various countries and product lines  
 
 **✨ Features & Highlights**  
@@ -48,22 +39,19 @@ Chocolate manufacturers and distributors require a real-time, visual tool to ass
 To create a centralized performance overview that allows:
 
 Tracking key business metrics over time
-
 Comparing regional performance and market trends
-
 Identifying high-performing salespeople and low-performing products
-
 Supporting agile, data-backed decisions in a fast-moving consumer market
 
-• Walkthrough of Key Visuals  
+**• Walkthrough of Key Visuals  **  
 
 🔹 Key Performance Indicators (Top Section):  
 Total Sales: $17M  
-Total Boxes Sold: 1M
-Total Costs: $6.68M
-Total Profit: $10M
-Total Shipments: 3K
-Current Sales Efficiency Gauge: 60.9%
+Total Boxes Sold: 1M  
+Total Costs: $6.68M  
+Total Profit: $10M  
+Total Shipments: 3K  
+Current Sales Efficiency Gauge: 60.9%  
 
 Each KPI block also shows Month-over-Month (%) changes, highlighting areas of improvement or concern.
 
@@ -74,6 +62,7 @@ Shows monthly trend in boxes sold, helping identify seasonal patterns and sales 
 Visualizes distribution of shipments across different box volumes to understand inventory dynamics.
 
 🧑‍💼 Salesperson Performance Table:  
+
 Includes:
 
 Individual sales and profit values
@@ -85,10 +74,10 @@ Visual indicators for performance health
 Filter dashboard data by:  
 
 Product Categories: Bars, Bites, Other
-
 Regions/Countries: Australia, Canada, India, NZ, UK, USA
 
-• Business Impact & Insights  
+**• Business Impact & Insights  **  
+
 Sales Leadership: Quickly assess which salespeople are contributing the most profit and which regions need support.
 
 Market Intelligence: Understand which product types and countries are generating the most revenue.
