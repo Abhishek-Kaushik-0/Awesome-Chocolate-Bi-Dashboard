@@ -37,8 +37,10 @@ Box shipments by region and product category
 
 Profitability by individual salespeople
 
-Market segmentation across various countries and product lines
-**✨ Features & Highlights**
+Market segmentation across various countries and product lines  
+
+**✨ Features & Highlights**  
+
 • Business Problem
 Chocolate manufacturers and distributors require a real-time, visual tool to assess market health, track sales team performance, and optimize supply chain decisions across global operations.
 
