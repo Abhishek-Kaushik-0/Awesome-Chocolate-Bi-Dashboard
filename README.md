@@ -27,20 +27,17 @@ The dashboard was built using the following tools and technologies:
 
 **📦 Data Source**
 
-Note: Dummy or sample data used for demonstration.
+Sample sales dataset sourced from Kaggle for demonstration and learning purposes.
 
-Internal fictional sales dataset of "Awesome Chocolates"
+The dataset represents fictional sales data for "Awesome Chocolates" and includes:
 
-Includes data on:
+Monthly sales value and volume
 
-Sales value and volume (monthly)
+Box shipments by region and product category
 
-Box shipments by region and product type
+Profitability by individual salespeople
 
-Profitability by salesperson
-
-Market segmentation across countries and product lines
-
+Market segmentation across various countries and product lines
 **✨ Features & Highlights**
 • Business Problem
 Chocolate manufacturers and distributors require a real-time, visual tool to assess market health, track sales team performance, and optimize supply chain decisions across global operations.
